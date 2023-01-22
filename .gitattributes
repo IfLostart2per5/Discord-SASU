@@ -1,0 +1,4 @@
+C:UsersadminPython-Tests filter=lfs diff=lfs merge=lfs -text
+C:UsersadminPython-Testsdiscord_signer_1-1-1.exe filter=lfs diff=lfs merge=lfs -text
+discord_signer_1-1-1.exe filter=lfs diff=lfs merge=lfs -text
+discord_signer_1-1-0.exe filter=lfs diff=lfs merge=lfs -text
